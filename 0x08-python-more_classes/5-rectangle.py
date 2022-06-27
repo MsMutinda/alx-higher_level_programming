@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Defines  class Rectangle."""
 
+
 class Rectangle:
     """Represent a rectangle.
     Attributes:
